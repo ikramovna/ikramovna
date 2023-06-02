@@ -1,4 +1,3 @@
-Robiya pdp, [02/06/23 01:04]
 # 💫 About Me:
 🔭 I’m currently working on developing my skills in Django and Django REST Framework.<br>👯 I’m looking to collaborate on open-source projects related to web development.<br>🤝 I’m looking for help with advanced Django concepts and best practices.<br>🌱 I’m currently learning more about front-end development with JavaScript and React.<br>💬 Ask me about Django, Django REST Framework, web development, or anything related to programming. I'll be glad to assist you!<br>⚡️ Fun fact: I do motor sports in my spare time
 
@@ -16,10 +15,6 @@ Robiya pdp, [02/06/23 01:04]
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZokirjonovaMuslima&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-Robiya pdp, [02/06/23 01:04]
 
 
 ---
