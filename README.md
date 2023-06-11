@@ -13,7 +13,7 @@
 </br>
 
 - 💬 When you happen to have any questions or comments, please feel free to contact me!
-- 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/ZokirjonovaMuslima.pdf)
+<!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf) -->
 
 
 
