@@ -47,17 +47,17 @@
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZokirjonovaMuslima&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZokirjonovaMuslima&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZokirjonovaMuslima&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ikramovna&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ikramovna&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramovna&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZokirjonovaMuslima&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ikramovna&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
  -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZokirjonovaMuslima&label=Profile%20views&color=0e75b6&style=flat" alt="ZokirjonovaMuslima" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramovna&label=Profile%20views&color=0e75b6&style=flat" alt="ikramovna" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZokirjonovaMuslima" alt="ZokirjonovaMuslima" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikramovna" alt="ikramovna" /></a> </p>
 
