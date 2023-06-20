@@ -1,5 +1,4 @@
 
-<br></br><br></br> ![image](https://github.com/ikramovna/ikramovna/assets/122157752/6bee2aac-2fa1-453c-b6d5-17b7a2efa830)
 
 
 
