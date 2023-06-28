@@ -64,7 +64,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikramovna" alt="ikramovna" /></a> </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ikramovna&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
 
