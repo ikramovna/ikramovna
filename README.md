@@ -35,7 +35,6 @@
 ![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
-[![Prezi](https://img.shields.io/badge/Prezi-informational?style=flat&logo=Prezi&color=FF6C34)](https://www.prezi.com)
 
 </br>
 
@@ -56,6 +55,7 @@
 
 
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
+[![Prezi](https://img.shields.io/badge/Prezi-informational?style=flat&logo=Prezi&color=FF6C34)](https://www.prezi.com)
 
 
 </br>
