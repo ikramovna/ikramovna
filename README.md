@@ -54,7 +54,8 @@
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 [![Swagger](https://img.shields.io/badge/Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=85EA2D)](https://swagger.io/)
-[![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=C%2B%2B&logoColor=00599C&color=00599C)](https://en.cppreference.com/)
+[![](https://img.shields.io/badge/Elasticsearch-information?color=005571&style=flat&logo=elasticsearch&logoColor=orange)](https://www.elastic.co/)
+
 
 
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
