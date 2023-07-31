@@ -47,7 +47,6 @@
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Docker-information?color=%230db7ed&style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Apache-information?color=%23D42029&style=flat&logo=apache&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-information?color=%23009639.svg&style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Gunicorn-information?color=%298729&style=flat&logo=gunicorn&logoColor=white)
 ![](https://img.shields.io/badge/DigitalOcean-information?color=%230167ff&style=flat&logo=digitalOcean&logoColor=white)
