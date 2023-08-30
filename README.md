@@ -26,6 +26,7 @@
 ## Technical Skills
 
 ![](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/SQLAlchemy-informational?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
@@ -41,6 +42,7 @@
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![](https://img.shields.io/badge/JWT-information?color=black&style=flat&logo=JSON%20web%20tokens)
+![](https://img.shields.io/badge/Celery-green?style=flat&logo=Celery&logoColor=white)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=%23DD0031&logoColor=white)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=%23F05033&logoColor=white)
 ![](https://img.shields.io/badge/Ci%2FCD-Git-%23F05033?style=flat&logo=Git&logoColor=white)
