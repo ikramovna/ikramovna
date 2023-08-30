@@ -30,6 +30,10 @@
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/AWS%20RDS-yellow?style=flat&logo=Amazon%20AWS&logoColor=white)
+
+![](https://img.shields.io/badge/AWS%20S3-informational?style=flat&logo=amazon%20aws&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/MinIO-%23F05033?style=flat&logo=minio&logoColor=white)
 </br>
 
 ![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
