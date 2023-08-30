@@ -45,22 +45,28 @@
 
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/FastAPI-%23007D9C?style=flat&logo=FastAPI&logoColor=white)
+
 ![](https://img.shields.io/badge/JWT-information?color=black&style=flat&logo=JSON%20web%20tokens)
 ![](https://img.shields.io/badge/Celery-green?style=flat&logo=Celery&logoColor=white)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=%23DD0031&logoColor=white)
+![](https://img.shields.io/badge/Asyncio-%2300CCBB?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Synchronous-%2300CCBB?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Aiogram-%2300CCBB?style=flat&logo=Python&logoColor=white)
+
+
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=%23F05033&logoColor=white)
 ![](https://img.shields.io/badge/Ci%2FCD-Git-%23F05033?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
+
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&color=FF6C37&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-information?color=%23009639.svg&style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Gunicorn-information?color=%298729&style=flat&logo=gunicorn&logoColor=white)
 ![](https://img.shields.io/badge/DigitalOcean-information?color=%230167ff&style=flat&logo=digitalOcean&logoColor=white)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 [![Swagger](https://img.shields.io/badge/Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=85EA2D)](https://swagger.io/)
-![](https://img.shields.io/badge/Asyncio-%2300CCBB?style=flat&logo=Python&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-Telegram%20Bot%20Framework-blue?style=flat&logo=telegram&logoColor=white)
 ![](https://img.shields.io/badge/Docker-information?color=%230db7ed&style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Container%20Orchestration-blue?style=flat&logo=docker&logoColor=white)
 
