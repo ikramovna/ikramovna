@@ -41,8 +41,6 @@
 ![](https://img.shields.io/badge/bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
 
-</br>
-
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![](https://img.shields.io/badge/FastAPI-%23007D9C?style=flat&logo=FastAPI&logoColor=white)
@@ -58,26 +56,28 @@
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=%23F05033&logoColor=white)
 ![](https://img.shields.io/badge/Ci%2FCD-Git-%23F05033?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
-
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&color=FF6C37&logoColor=white)
+[![Swagger](https://img.shields.io/badge/Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=85EA2D)](https://swagger.io/)
+![](https://img.shields.io/badge/Redoc-%2300CCBB?style=flat&logo=Redoc&logoColor=white)
+
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-information?color=%23009639.svg&style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Gunicorn-information?color=%298729&style=flat&logo=gunicorn&logoColor=white)
 ![](https://img.shields.io/badge/DigitalOcean-information?color=%230167ff&style=flat&logo=digitalOcean&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-[![Swagger](https://img.shields.io/badge/Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=85EA2D)](https://swagger.io/)
 ![](https://img.shields.io/badge/Docker-information?color=%230db7ed&style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Container%20Orchestration-blue?style=flat&logo=docker&logoColor=white)
-
+![](https://img.shields.io/badge/Docker%20Compose-%231767E5?style=flat&logo=docker&logoColor=white)
 
 [![](https://img.shields.io/badge/Elasticsearch-information?color=005571&style=flat&logo=elasticsearch&logoColor=orange)](https://www.elastic.co/)
-
+![](https://img.shields.io/badge/WebSocket-%2300CCBB?style=flat&logo=WebSocket&logoColor=white)
+![](https://img.shields.io/badge/i18n-%2300CCBB?style=flat&logo=Python&logoColor=white)
 
 
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
 [![Prezi](https://img.shields.io/badge/Prezi-informational?style=flat&logo=Prezi&color=FF6C34)](https://www.prezi.com)
 ![](https://img.shields.io/badge/PyTest-%23FF5733?style=flat&logo=PyTest&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
 
 
 
