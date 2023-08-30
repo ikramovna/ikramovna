@@ -67,6 +67,8 @@
 
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
 [![Prezi](https://img.shields.io/badge/Prezi-informational?style=flat&logo=Prezi&color=FF6C34)](https://www.prezi.com)
+![](https://img.shields.io/badge/PyTest-%23FF5733?style=flat&logo=PyTest&logoColor=white)
+
 
 
 </br>
