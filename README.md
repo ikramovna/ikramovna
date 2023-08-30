@@ -14,6 +14,8 @@
 
 <a href="https://www.linkedin.com/in/muslima-zokirjonova-a45694279/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://leetcode.com/Muslima_03/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="mailto:muslimazokirjonova2004@gmail.com"><img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="21px"/></a>
+
 
 
  💬 When you happen to have any questions or comments, please feel free to contact me!
