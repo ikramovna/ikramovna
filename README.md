@@ -48,7 +48,6 @@
 ![](https://img.shields.io/badge/Celery-green?style=flat&logo=Celery&logoColor=white)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=%23DD0031&logoColor=white)
 ![](https://img.shields.io/badge/Asyncio-%2300CCBB?style=flat&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Synchronous-%2300CCBB?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Aiogram-%2300CCBB?style=flat&logo=Python&logoColor=white)
 
 
