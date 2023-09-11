@@ -47,7 +47,6 @@
 ![](https://img.shields.io/badge/JWT-information?color=black&style=flat&logo=JSON%20web%20tokens)
 ![](https://img.shields.io/badge/Celery-green?style=flat&logo=Celery&logoColor=white)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=%23DD0031&logoColor=white)
-![](https://img.shields.io/badge/Asyncio-%2300CCBB?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Aiogram-%2300CCBB?style=flat&logo=Python&logoColor=white)
 
 
@@ -56,7 +55,6 @@
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&color=FF6C37&logoColor=white)
 [![Swagger](https://img.shields.io/badge/Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=85EA2D)](https://swagger.io/)
-![](https://img.shields.io/badge/Redoc-%2300CCBB?style=flat&logo=Redoc&logoColor=white)
 
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
