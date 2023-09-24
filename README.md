@@ -68,6 +68,8 @@
 ![](https://img.shields.io/badge/WebSocket-%2300CCBB?style=flat&logo=WebSocket&logoColor=white)
 ![](https://img.shields.io/badge/i18n-%2300CCBB?style=flat&logo=Python&logoColor=white)
 [![](https://img.shields.io/badge/Python%20Core-information?color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/Python%20Web-information?color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
+
 
 
 
