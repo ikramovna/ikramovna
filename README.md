@@ -67,6 +67,8 @@
 [![](https://img.shields.io/badge/Elasticsearch-information?color=005571&style=flat&logo=elasticsearch&logoColor=orange)](https://www.elastic.co/)
 ![](https://img.shields.io/badge/WebSocket-%2300CCBB?style=flat&logo=WebSocket&logoColor=white)
 ![](https://img.shields.io/badge/i18n-%2300CCBB?style=flat&logo=Python&logoColor=white)
+[![](https://img.shields.io/badge/Python%20Core-information?color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
+
 
 
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
