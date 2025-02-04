@@ -16,7 +16,7 @@
 <a href="https://leetcode.com/Muslima_03/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode | Muslima" width="21px"/></a>
 <a href="https://instagram.com/zakirjanovam_"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram | Muslima" width="21px"/></a>
 <a href="https://t.me/ikramovnm"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
+</br>
 
 <!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf) -->
 
