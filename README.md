@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🚀 What I'm Doing: I'm passionately deepening my expertise in Django and Django REST Framework as I build and scale robust, high-performance web applications. With a keen interest in collaborative and open-source projects, I am eager to join forces with other developers on innovative web development endeavors.<br>💡 Looking For: I'm actively seeking opportunities to exchange knowledge on advanced Django techniques and industry best practices. I'm also diving deeper into the world of front-end development with JavaScript and React to enhance my full-stack capabilities.<br>🌟 Let's Talk: I'm all about sharing knowledge and learning from the tech community. If you have any queries or need insights into Django, RESTful services, or general web development, I'm here to help! My inbox is always open for discussions or queries about tech and programming.<br>🌱 🏁 Outside the Code: When I'm not coding, you can find me indulging in the thrill of motor sports, where speed and precision fuel my adrenaline rush!<br>💌 Feel free to drop a message anytime you have questions or just want to chat about tech!
+🚀 What I'm Doing: I'm passionately deepening my expertise in Django and Django REST Framework as I build and scale robust, high-performance web applications. With a keen interest in collaborative and open-source projects, I am eager to join forces with other developers on innovative web development endeavors.<br>💡 Looking For: I'm actively seeking opportunities to exchange knowledge on advanced Django techniques and industry best practices. I'm also diving deeper into the world of front-end development with JavaScript and React to enhance my full-stack capabilities.<br>🌟 Let's Talk: I'm all about sharing knowledge and learning from the tech community. If you have any queries or need insights into Django, RESTful services, or general web development, I'm here to help! My inbox is always open for discussions or queries about tech and programming.<br>🏁 Outside the Code: When I'm not coding, you can find me indulging in the thrill of motor sports, where speed and precision fuel my adrenaline rush!<br>💌 Feel free to drop a message anytime you have questions or just want to chat about tech!
 
 
 <!-- ## 🌐 Socials:
@@ -12,11 +12,14 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/muslima-zokirjonova-a45694279/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://leetcode.com/Muslima_03/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://linkedin.com/in/muslima-zokirjonova-a45694279/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn | Muslima Zokirjonova" width="21px"/></a>
+<a href="https://leetcode.com/Muslima_03/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode | Muslima" width="21px"/></a>
+<a href="https://instagram.com/zakirjanovam_"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram | Muslima" width="21px"/></a>
+<a href="https://t.me/ikramovnm"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram | Muslima" width="21px"/></a>
 
- 💬 When you happen to have any questions or comments, please feel free to contact me!
- </br>
+💬 When you happen to have any questions or comments, please feel free to contact me!  
+📧 Email me at [muslimazokirjonova2004@gmail.com](mailto:muslimazokirjonova2004@gmail.com)
+
 <!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf) -->
 
 
