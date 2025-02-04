@@ -17,8 +17,6 @@
 <a href="https://instagram.com/zakirjanovam_"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram | Muslima" width="21px"/></a>
 <a href="https://t.me/ikramovnm"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram | Muslima" width="21px"/></a>
 
-💬 When you happen to have any questions or comments, please feel free to contact me!  
-📧 Email me at [muslimazokirjonova2004@gmail.com](mailto:muslimazokirjonova2004@gmail.com)
 
 <!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf) -->
 
