@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on developing my skills in Django and Django REST Framework.<br>👯 I’m looking to collaborate on open-source projects related to web development.<br>🤝 I’m looking for help with advanced Django concepts and best practices.<br>🌱 I’m currently learning more about front-end development with JavaScript and React.<br>💬 Ask me about Django, Django REST Framework, web development, or anything related to programming. I'll be glad to assist you!<br>⚡️ Fun fact: I do motor sports in my spare time
+🚀 What I'm Doing: I'm passionately deepening my expertise in Django and Django REST Framework as I build and scale robust, high-performance web applications. With a keen interest in collaborative and open-source projects, I am eager to join forces with other developers on innovative web development endeavors.<br>👯 I’m looking to collaborate on open-source projects related to web development.<br>🤝 I’m looking for help with advanced Django concepts and best practices.<br>🌱 I’m currently learning more about front-end development with JavaScript and React.<br>💬 Ask me about Django, Django REST Framework, web development, or anything related to programming. I'll be glad to assist you!<br>⚡️ Fun fact: I do motor sports in my spare time
 
 
 <!-- ## 🌐 Socials:
