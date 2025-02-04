@@ -4,7 +4,11 @@
 
 
 # 💫 About Me:
-🚀 What I'm Doing: I'm passionately deepening my expertise in Django and Django REST Framework as I build and scale robust, high-performance web applications. With a keen interest in collaborative and open-source projects, I am eager to join forces with other developers on innovative web development endeavors.<br>💡 Looking For: I'm actively seeking opportunities to exchange knowledge on advanced Django techniques and industry best practices. I'm also diving deeper into the world of front-end development with JavaScript and React to enhance my full-stack capabilities.<br>🌟 Let's Talk: I'm all about sharing knowledge and learning from the tech community. If you have any queries or need insights into Django, RESTful services, or general web development, I'm here to help! My inbox is always open for discussions or queries about tech and programming.<br>🏁 Outside the Code: When I'm not coding, you can find me indulging in the thrill of motor sports, where speed and precision fuel my adrenaline rush!<br>💌 Feel free to drop a message anytime you have questions or just want to chat about tech!
+🚀 What I'm Doing: I'm passionately deepening my expertise in Django and Django REST Framework as I build and scale robust, high-performance web applications. With a keen interest in collaborative and open-source projects, I am eager to join forces with other developers on innovative web development endeavors.<br>
+💡 Looking For: I'm actively seeking opportunities to exchange knowledge on advanced Django techniques and industry best practices. I'm also diving deeper into the world of front-end development with JavaScript and React to enhance my full-stack capabilities.<br>
+🌟 Let's Talk: I'm all about sharing knowledge and learning from the tech community. If you have any queries or need insights into Django, RESTful services, or general web development, I'm here to help! My inbox is always open for discussions or queries about tech and programming.<br>
+🏁 Outside the Code: When I'm not coding, you can find me indulging in the thrill of motor sports, where speed and precision fuel my adrenaline rush!<br>
+💌 Feel free to drop a message anytime you have questions or just want to chat about tech!
 
 
 <!-- ## 🌐 Socials:
@@ -51,7 +55,7 @@
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=%23DD0031&logoColor=white)
 ![](https://img.shields.io/badge/Aiogram-%2300CCBB?style=flat&logo=Python&logoColor=white)
 
-
+![](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&color=%23D24939&logoColor=white)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=%23F05033&logoColor=white)
 ![](https://img.shields.io/badge/Ci%2FCD-Git-%23F05033?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
