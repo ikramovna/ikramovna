@@ -31,6 +31,8 @@
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/AWS%20RDS-yellow?style=flat&logo=Amazon%20AWS&logoColor=white)
+![](https://img.shields.io/badge/Odoo-informational?style=flat&logo=odoo&color=714B67&logoColor=white)
+
 
 ![](https://img.shields.io/badge/AWS%20S3-informational?style=flat&logo=amazon%20aws&logoColor=white&color=FF9900)
 ![](https://img.shields.io/badge/MinIO-%23F05033?style=flat&logo=minio&logoColor=white)
@@ -77,6 +79,8 @@
 [![Prezi](https://img.shields.io/badge/Prezi-informational?style=flat&logo=Prezi&color=FF6C34)](https://www.prezi.com)
 ![](https://img.shields.io/badge/PyTest-%23FF5733?style=flat&logo=PyTest&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&color=0052CC&logoColor=white)
+![](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&color=4A154B&logoColor=white)
 
 
 
